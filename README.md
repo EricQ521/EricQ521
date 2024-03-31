@@ -1,7 +1,7 @@
 - Hello, this is @EricQ521.
 - 👀 I'm interested in computers, games, and books.
 - 🌱 I'm currently learning python
-- 📫 How to contact me: www.eqshare521.wordpress.com或者 ae12013.outlook.com
+- 📫 How to contact me: www.eqshare521.wordpress.com or ae12013@outlook.com
 - ⚡ Interesting facts: not very smart
 
 <!---
